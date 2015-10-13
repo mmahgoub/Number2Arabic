@@ -21,11 +21,11 @@ Link the js file to your page or app
 Examples
 --------
 
-//مئتان وثلاثون ألف جنيه سوداني لا غير
 convert_number("230000", "male")+" جنيه سوداني لا غير";
+//This will produce مئتان وثلاثون ألف جنيه سوداني لا غير
 
 
-//مئتان وثلاثون ألف جنيه سوداني لا غير
 convert_number("230000", "female")+" ليرة لبنانية لا غير";
+//This will produce مئتان وثلاثون ألف  ليرة لبنانية لا غير
 
 

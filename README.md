@@ -1,7 +1,7 @@
 Number2Arabic
 =================
 
-A function for converting numbers into Arabic written text such as 230,000 = مئتان وثلاثون ألف. This function is very handy if you are trying to print invoices, contracts or any financial document really.
+A JavaScript function for converting numbers into Arabic written text such as 230,000 = مئتان وثلاثون ألف. This function is very handy if you are trying to print invoices, contracts or any financial document really.
 
 This function has been ported from PHP and it is the work of Ahmad Mazyad [which could be found here] (http://www.phpclasses.org/package/7559-PHP-Convert-number-to-Arabic-words.html) "Number to Arabic: Convert number to Arabic words - PHP Classes").
 
